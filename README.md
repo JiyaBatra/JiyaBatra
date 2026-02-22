@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 22, 2026, 03_41_19 PM" src="https://github.com/user-attachments/assets/2f35c843-0737-4c0b-b9bf-9ee25efd2855" />
+
 #Hey Shiny Star ✨
 # 💫 About Me:
 1) I am currently working on: Developing full-stack projects with the MERN stack, including refining CodeVibe for better functionality and UI.<br><br>2) I am looking to collaborate on: Web development projects, open-source contributions, and building interactive, user-friendly applications.<br><br>3) I am currently learning: Advanced React concepts, JavaScript optimization, and improving my DSA skills for efficient coding.<br><br>4) Ask about me: Feel free to ask about my projects, programming journey, or web development techniques—I love discussing code and problem-solving approaches.<br><br>5) Fun fact: I once built a Spotify clone and a Notes website from scratch, purely in HTML and CSS, just to challenge my layout and design skills.
