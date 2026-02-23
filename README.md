@@ -4,6 +4,9 @@
 # 💫 About Me:
 1) I am currently working on: Developing full-stack projects with the MERN stack, including refining CodeVibe for better functionality and UI.<br><br>2) I am looking to collaborate on: Web development projects, open-source contributions, and building interactive, user-friendly applications.<br><br>3) I am currently learning: Advanced React concepts, JavaScript optimization, and improving my DSA skills for efficient coding.<br><br>4) Ask about me: Feel free to ask about my projects, programming journey, or web development techniques—I love discussing code and problem-solving approaches.<br><br>5) Fun fact: I once built a Spotify clone and a Notes website from scratch, purely in HTML and CSS, just to challenge my layout and design skills.
 
+##Open source:
+![WhatsApp Image 2026-02-22 at 5 40 13 PM](https://github.com/user-attachments/assets/ee0722b2-4405-48ef-9d0a-709c959f6f96)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiya_the_coolartist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-batra-12b02b289) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BEWITHMEIt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyabatra0007@gmail.com) 
