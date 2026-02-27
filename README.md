@@ -13,10 +13,7 @@
 # 📊 GitHub Stats:
 ![JiyaBatra's GitHub Stats](https://readme-stats-github.pages.dev/api?username=JiyaBatra)se&layout=compact)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=JiyaBatra)
-![Stats](https://github-readme-stats.vercel.app/api?username=JiyaBatra&theme=onedark&show_icons=true)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JiyaBatra&theme=onedark&show_icons=true)
-![Stats](https://github-readme-streak-stats.demolab.com/?user=JiyaBatra?theme=onedark)
-![Stats](https://github-readme-stats.vercel.app/api?username=JiyaBatra&theme=onedark&show_icons=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiya Batra&icon=0&color=0)](https://visitcount.itsvg.in)
