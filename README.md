@@ -14,6 +14,8 @@
 ![JiyaBatra's GitHub Stats](https://readme-stats-github.pages.dev/api?username=JiyaBatra)se&layout=compact)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=JiyaBatra)
 https://streak-stats.demolab.com/?user=JiyaBatra
+![JiyaBatra's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=default)
+![JiyaBatra's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=default)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiya Batra&icon=0&color=0)](https://visitcount.itsvg.in)
