@@ -39,16 +39,16 @@ Hey Shiny Star ✨
 
 ### GitHub Contribution Stats
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img width="200" height="200" alt="Left Wing" src="https://github.com/user-attachments/assets/042300df-86e6-458d-a599-ddc691e18a9d" />
+  <img width="150" height="150" alt="Left Wing" src="https://github.com/user-attachments/assets/042300df-86e6-458d-a599-ddc691e18a9d" />
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=default" alt="JiyaBatra's Contribution stats" />
-  <img width="200" height="200" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
+  <img width="150" height="150" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
 </div>
-
+<br>
 ### My Top Repos
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img width="200" height="200" alt="Left Wing" src="https://github.com/user-attachments/assets/27dfc5c7-f98b-48d8-880a-3384342dcecd" />
+  <img width="150" height="150" alt="Left Wing" src="https://github.com/user-attachments/assets/27dfc5c7-f98b-48d8-880a-3384342dcecd" />
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=default" alt="JiyaBatra's Top Repos" />
-  <img width="200" height="200" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
+  <img width="150" height="150" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
 </div>
 ---
 
