@@ -52,6 +52,4 @@ Hey Shiny Star ✨
 </div>
 ---
 
-<p align="center">
-[Visit Count](https://visitcount.itsvg.in)
-</p>
+
