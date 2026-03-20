@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image Feb 22, 2026, 03_41_19 PM" src="https://github.com/user-attachments/assets/2f35c843-0737-4c0b-b9bf-9ee25efd2855" />
+<img width="1022" height="330" alt="ChatGPT Image Feb 22, 2026, 03_41_19 PM" src="https://github.com/user-attachments/assets/794b4bbd-09cc-4669-93ec-42bf88cee163" />
+
 
 #Hey Shiny Star ✨
 # 💫 About Me:
@@ -13,24 +14,72 @@
 # 📊 GitHub Stats:
 
 <h3>GitHub Stats</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- Left Wing -->
+  <img src="https://github.com/user-attachments/assets/9d37f439-7726-43c8-bc24-6310965f1684" alt="Left Wing" width="200" height="200"/>
 
-![JiyaBatra's GitHub Stats](https://readme-stats-github.pages.dev/api?username=JiyaBatra) <br>
+  <!-- GitHub Stats -->
+  <img src="https://readme-stats-github.pages.dev/api?username=JiyaBatra" alt="JiyaBatra's GitHub Stats" width="300"/>
+
+  <!-- Right Wing -->
+  <img src="https://github.com/user-attachments/assets/2a2842c0-2167-4f29-8c14-6ad244fb2fd5" alt="Right Wing" width="200" height="200"/>
+</div>
+ <br>
 
 <h3> Top Languages</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Left Wing -->
+  <img src="https://github.com/user-attachments/assets/9d37f439-7726-43c8-bc24-6310965f1684" alt="Left Wing" width="200" height="200"/>
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=JiyaBatra) <br>
+  <!-- Top Languages -->
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=JiyaBatra" alt="Top Languages" width="300"/>
 
+  <!-- Right Wing -->
+  <img src="https://github.com/user-attachments/assets/2a2842c0-2167-4f29-8c14-6ad244fb2fd5" alt="Right Wing" width="200" height="200"/>
+</div>
 <h3>Github Streak</h3>
 
-![Jiya's GitHub Streak](https://streak-stats.demolab.com/?user=JiyaBatra&hide_border=true&theme=dark)<br>
+
+<!-- Full vertical stack, responsive --><div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center; width: 100%;">
+
+  <!-- Left Wing -->
+<img width="200" height="200" alt="Pink angel wing with gradient feathers" src="https://github.com/user-attachments/assets/847dae33-1055-4e50-94df-52fd0cf804b8" />
+
+
+  <!-- Streak Stats -->
+  [<a href="https://streak-stats.demolab.com/?user=JiyaBatra&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" target="_blank">](https://streak-stats.demolab.com?user=JiyaBatra&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF)
+    <img 
+      src="https://streak-stats.demolab.com/?user=JiyaBatra&hide_border=true&theme=dark" 
+      alt="GitHub Streak" 
+      style="width: 300px; max-width: 90%; height: auto;"
+    />
+  </a>
+
+  <!-- Right Wing -->
+<img width="200" height="200" alt="Pink angel wing with gradient feathers" src="https://github.com/user-attachments/assets/4db7bfe2-82af-4dec-bf3c-6277c87a0696" />
+
+</div>
+ <br>
 
 <h3>Github contribution stats</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;>
+  
+<img width="200" height="200" alt="file_0000000027347208b4e26386b8b3a32b" src="https://github.com/user-attachments/assets/042300df-86e6-458d-a599-ddc691e18a9d" />
 
-![JiyaBatra's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=default) <br>
+![JiyaBatra's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=default) 
+<img width="200" height="200" alt="file_0000000027347208b4e26386b8b3a32b" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
+</div>
+
+<br>
 
 <h3>My top Repos</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;>
+<img width="200" height="200" alt="file_0000000027347208b4e26386b8b3a32b" src="https://github.com/user-attachments/assets/27dfc5c7-f98b-48d8-880a-3384342dcecd" />
 
-![JiyaBatra's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=default) <br>
+![JiyaBatra's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=default)
+<img width="200" height="200" alt="file_0000000027347208b4e26386b8b3a32b" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
+</div>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiya Batra&icon=0&color=0)](https://visitcount.itsvg.in)
