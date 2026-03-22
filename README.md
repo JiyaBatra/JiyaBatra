@@ -16,40 +16,28 @@ Hey Shiny Star ✨
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d37f439-7726-43c8-bc24-6310965f1684" alt="Left Wing" width="200" height="200"/>
-  <img src="https://readme-stats-github.pages.dev/api?username=JiyaBatra" alt="JiyaBatra's GitHub Stats" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2a2842c0-2167-4f29-8c14-6ad244fb2fd5" alt="Right Wing" width="200" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=JiyaBatra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub+Stats">
 </p>
 
 ### Top Languages
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d37f439-7726-43c8-bc24-6310965f1684" alt="Left Wing" width="200" height="200"/>
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=JiyaBatra" alt="Top Languages" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2a2842c0-2167-4f29-8c14-6ad244fb2fd5" alt="Right Wing" width="200" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyaBatra&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ### GitHub Streak
 <p align="center">
-  <img width="200" height="200" alt="Left Wing" src="https://github.com/user-attachments/assets/847dae33-1055-4e50-94df-52fd0cf804b8" />
-  <a href="https://streak-stats.demolab.com/?user=JiyaBatra&hide_border=true&theme=dark" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=JiyaBatra&hide_border=true&theme=dark" alt="GitHub Streak" style="width: 300px; max-width: 90%; height: auto;" />
-  </a>
-  <img width="200" height="200" alt="Right Wing" src="https://github.com/user-attachments/assets/4db7bfe2-82af-4dec-bf3c-6277c87a0696" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JiyaBatra&theme=radical" alt="GitHub Streak" /></a
 </p>
 
 ### GitHub Contribution Stats
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img width="150" height="150" alt="Left Wing" src="https://github.com/user-attachments/assets/042300df-86e6-458d-a599-ddc691e18a9d" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=default" alt="JiyaBatra's Contribution stats" />
-  <img width="150" height="150" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
-</div>
+<p align="center">
+ <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=radical" />
+</p>
 <br>
 ### My Top Repos
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img width="150" height="150" alt="Left Wing" src="https://github.com/user-attachments/assets/27dfc5c7-f98b-48d8-880a-3384342dcecd" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=default" alt="JiyaBatra's Top Repos" />
-  <img width="150" height="150" alt="Right Wing" src="https://github.com/user-attachments/assets/52317611-58f6-4b20-a085-d021e4a4fa6b" />
-</div>
----
+<p align="center">
+<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=top-repos&theme=radical" />
+</p>
+
 
 
