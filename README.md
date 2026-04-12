@@ -1,4 +1,9 @@
-<img width="1022" height="330" alt="ChatGPT Image Feb 22, 2026, 03_41_19 PM" src="https://github.com/user-attachments/assets/794b4bbd-09cc-4669-93ec-42bf88cee163" />
+
+
+<img width="1305" height="393" alt="ChatGPT Image Apr 12, 2026, 11_05_21 AM" src="https://github.com/user-attachments/assets/9dee202e-7cb9-4200-b915-549619005f5c" />
+
+ 
+
 Hey Shiny Star ✨
 
 ## 💫 About Me:
