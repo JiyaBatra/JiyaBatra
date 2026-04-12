@@ -1,8 +1,5 @@
 
-
-<img width="1305" height="393" alt="ChatGPT Image Apr 12, 2026, 11_05_21 AM" src="https://github.com/user-attachments/assets/9dee202e-7cb9-4200-b915-549619005f5c" />
-
- 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF69B4,50:FF1493,100:FFB6C1&height=300&text=Jiya&fontSize=80&fontColor=ffffff&desc=Crafting%20Scable%20Web%20Experiences&descAlignY=70&descSize=20&animation=scaleIn" />
 
 Hey Shiny Star ✨
 
