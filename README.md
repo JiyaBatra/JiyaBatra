@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF69B4,50:FF1493,100:FFB6C1&height=300&text=Jiya&fontSize=80&fontColor=ffffff&desc=Crafting%20Scable%20Web%20Experiences&descAlignY=70&descSize=20&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF69B4,50:FF1493,100:FFB6C1&height=300&text=Jiya&fontSize=80&fontColor=ffffff&desc=Crafting%20Scalable%20Web%20Experiences&descAlignY=70&descSize=20&animation=scaleIn" />
 
 Hey Shiny Star ✨
 
