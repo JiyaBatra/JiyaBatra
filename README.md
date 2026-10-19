@@ -1,57 +1,77 @@
+
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a1e,30:3d0030,60:7a0050,100:ff69b4&height=320&text=Jiya%20Batra&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Thinker%20%E2%80%A2%20Digital%20Craftsperson&descAlignY=65&descSize=16&animation=fadeIn&stroke=ff69b4&strokeWidth=1" width="100%" />
-
-<!-- IDENTITY LINE -->
-<br/>
-
-> *"I don't just write code — I architect experiences that feel alive."*
+<!-- ANIMATED HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:10051A,35:32104A,70:9D287D,100:FF69B4&height=280&section=header&text=JIYA%20BATRA&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=PYTHON%20%7C%20AI%2FML%20%7C%20OPEN%20SOURCE&descSize=17&descAlignY=63&animation=fadeIn&stroke=FF69B4&strokeWidth=1"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+the+web%2C+one+pixel+at+a+time+%F0%9F%8C%B8;Where+logic+meets+aesthetics+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=FF69B4&center=true&vCenter=true&width=700&height=55&lines=Python+%26+AI%2FML+Developer+%F0%9F%A4%96;Building+projects+that+solve+real+problems;Open+Source+Project+Admin+%26+Mentor;Developer+by+logic%2C+Artist+by+heart+%F0%9F%8E%A8;Learning.+Building.+Contributing.+Repeating." alt="Typing SVG"/>
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jiya_the_coolartist)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-batra-12b02b289)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BEWITHMEIt)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyabatra0007@gmail.com)
+<a href="https://jiya-protfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20World-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/JiyaBatra">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/jiya-batra-12b02b289">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/jiya_the_coolartist">
+  <img src="https://img.shields.io/badge/Art%20Page-Create%20%26%20Imagine-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"Turning ideas into intelligent projects, one commit at a time."*
 
 </div>
 
-<br/>
-
 ---
 
-## 🌸 Who Am I?
+## ✦ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-I'm **Jiya** — a full-stack developer who believes great software should be as beautiful as it is functional.
+Hey, I'm **Jiya Batra** — a B.Tech Information Technology student from the 2027 graduating batch, passionate about Python, Artificial Intelligence, Machine Learning, and open source.
 
-I work at the intersection of **clean code and creative design**, building web experiences that don't just *work* — they *impress*. From architecting robust MERN backends to crafting pixel-perfect UIs, I bring both engineering discipline and an artist's eye to every project.
+I enjoy building practical projects, exploring how intelligent systems work, and contributing to communities where developers learn and grow together.
 
-- 🔭 Currently refining **CodeVibe** — a full-stack dev-focused platform
-- 🤝 Open to **collaborations** on web apps & open-source projects
-- 📚 Deepening expertise in **Advanced React**, **JS optimization** & **DSA**
-- 🎨 Also a digital artist — I designed a Spotify clone in pure HTML/CSS, just for fun
-- 💌 Always happy to talk **code, design, or creative problem-solving**
+I'm also a traditional and digital artist, so creativity isn't just a hobby — it's part of how I approach problem-solving and design.
+
+- 🤖 Exploring Python, AI/ML and computer vision
+- 🧠 Learning by building and experimenting
+- 🌱 Project Admin & Mentor in open-source programs
+- 💻 Building **CodeVibe**, a developer learning platform
+- 🚘 Developing **DriveSense AI**, an intelligent driver-safety project
+- 🎨 Creating art alongside code
 
 <br clear="right"/>
 
+<div align="center">
+
+| 🎓 Education | 🤖 Focus | 🌍 Community |
+|:---:|:---:|:---:|
+| B.Tech IT · 2023–2027 | Python & AI/ML | 5,000+ community members |
+| University position holder | Computer Vision | Open-source leadership |
+| 25+ GitHub repositories | Practical projects | Project Admin & Mentor |
+
+</div>
+
 ---
 
-## ⚡ What I Build
+## ✧ My Developer Universe
 
 <div align="center">
 
-| 🖥️ Full-Stack Applications | 🎨 UI/UX Interfaces | 🔧 Dev Tools & Utilities |
-|:---:|:---:|:---:|
-| Scalable MERN apps with clean architecture | Figma-to-code pixel-perfect frontends | Productivity tools and CLI utilities |
-| RESTful APIs with Express & Node.js | Responsive, mobile-first design systems | GitHub automation & workflow tools |
-| Real-time features with WebSockets | Animated, interactive React components | Reusable component libraries |
+| 🤖 AI / ML | 💻 Development | 🌱 Open Source | 🎨 Creativity |
+|:---:|:---:|:---:|:---:|
+| Intelligent systems | Full-stack apps | Community projects | Digital art |
+| Computer vision | REST APIs | Project administration | UI aesthetics |
+| Model training | MERN stack | Mentorship | Visual storytelling |
 
 </div>
 
@@ -61,53 +81,138 @@ I work at the intersection of **clean code and creative design**, building web e
 
 <div align="center">
 
+### 01 · DriveSense AI
+<img src="https://img.shields.io/badge/AI-Computer%20Vision-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+**An AI-powered driver safety and smart mobility project.**
+
+Working on intelligent driving assistance features, including driver drowsiness detection, lane detection, vehicle health monitoring, and accident-risk analysis.
+
+<a href="https://github.com/JiyaBatra/DriveSense_Ai">
+  <img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 02 · CodeVibe
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**A learning and practice platform for developers.**
+
+Features include programming lessons, coding practice, MCQs, progress tracking, scoring, and certificate functionality. Built to make learning development skills more interactive.
+
+<a href="https://github.com/JiyaBatra/CODEVIBE-">
+  <img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://codevibeforyou.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Platform-FF69B4?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+---
+
+### 03 · Plant Disease Detection
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square"/>
+
+**Computer vision for healthier plants.**
+
+A CNN-based project trained to classify healthy and diseased plant leaves. The planned application experience includes image upload, leaf scanning, disease predictions, and care recommendations.
+
+---
+
+### 04 · Web Development Projects
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+Spotify-inspired UI and a notes website built during web development training, focusing on layouts, styling, and frontend fundamentals.
+
+<a href="https://github.com/JiyaBatra?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Open Source · Achievements Unlocked
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSSoC'26-Rank%20%2340%20%7C%20Project%20Admin-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWOC'26-Rank%20%233%20%7C%20Mentor-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECWoC'26-Rank%20%2328%20%7C%20Contributor-3498DB?style=for-the-badge"/>
+
+<br/><br/>
+
+**GirlScript Summer of Code · 2026**
+
+As a Project Admin, I contribute to the open-source ecosystem by helping manage projects, supporting contributors, and encouraging collaborative development.
+
+The badges below showcase my GSSoC journey and achievements.
+
+</div>
+
+### 🌸 GSSoC Badge Gallery
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
-
-### 🎵 Spotify Clone
-> *Pure HTML & CSS — no frameworks, no shortcuts*
-
-A pixel-faithful recreation of Spotify's UI, built from scratch to master layout, flexbox, and design systems.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.48.59_PM_1_diidow.jpg" width="100%" alt="GSSoC badge 1"/>
+<br/><sub>GSSoC Achievement 01</sub>
 </td>
-<td width="50%">
-
-### 📝 Notes App
-> *Minimalist. Fast. Functional.*
-
-A clean note-taking web app built purely in HTML & CSS — focused on layout design and UX simplicity.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.48.58_PM_jm0rjr.jpg" width="100%" alt="GSSoC badge 2"/>
+<br/><sub>GSSoC Achievement 02</sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 💻 CodeVibe *(In Progress)*
-> *Full-stack developer productivity platform*
-
-Built with the MERN stack — currently refining features, performance, and UI for a polished release.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.48.59_PM_ysrpnn.jpg" width="100%" alt="GSSoC badge 3"/>
+<br/><sub>GSSoC Achievement 03</sub>
 </td>
-<td width="50%">
-
-### 🌟 Next Project
-> *Coming soon...*
-
-Always building. Always learning. Watch this space for something exciting.
-
-![Status](https://img.shields.io/badge/Status-Brewing%20✨-ff69b4?style=flat-square)
-
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.48.58_PM_1_tzyyfh.jpg" width="100%" alt="GSSoC badge 4"/>
+<br/><sub>GSSoC Achievement 04</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.48.59_PM_2_u9ifbe.jpg" width="100%" alt="GSSoC badge 5"/>
+<br/><sub>GSSoC Achievement 05</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.49.00_PM_1_eyisoj.jpg" width="100%" alt="GSSoC badge 6"/>
+<br/><sub>GSSoC Achievement 06</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.49.00_PM_xupxw6.jpg" width="100%" alt="GSSoC badge 7"/>
+<br/><sub>GSSoC Achievement 07</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.49.00_PM_2_l49ro6.jpg" width="100%" alt="GSSoC badge 8"/>
+<br/><sub>GSSoC Achievement 08</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.49.01_PM_1_lhhglk.jpg" width="100%" alt="GSSoC badge 9"/>
+<br/><sub>GSSoC Achievement 09</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://res.cloudinary.com/dciouzo8x/image/upload/v1792405750/WhatsApp_Image_2026-10-19_at_3.49.01_PM_jmvv3m.jpg" width="100%" alt="GSSoC badge 10"/>
+<br/><sub>GSSoC Achievement 10</sub>
 </td>
 </tr>
 </table>
@@ -116,97 +221,104 @@ Always building. Always learning. Watch this space for something exciting.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Toolkit
 
 <div align="center">
 
-**Frontend**
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark" alt="Programming languages"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
 
-**Backend**
+### Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" alt="Web development stack"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Design & Creative**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Tools & Creative Work
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark" alt="Development and design tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=JiyaBatra&theme=radical&hide_border=true&border_radius=12&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub Streak" width="48%" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyaBatra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF69B4&text_color=ffffff" alt="Top Languages" width="40%" />
+<img width="49%" src="https://streak-stats.demolab.com?user=JiyaBatra&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub contribution streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyaBatra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=JiyaBatra&type=contributions&theme=radical" width="60%" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiyaBatra&bg_color=0D1117&color=FF69B4&line=9B59B6&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Growing
+## 🌱 Currently Leveling Up
 
 <div align="center">
 
-```
-📌  Advanced React Patterns      ████████████░░░░  75%
-📌  JavaScript Performance       ██████████░░░░░░  60%
-📌  Data Structures & Algorithms ████████░░░░░░░░  50%
-📌  Backend Architecture         ███████░░░░░░░░░  45%
-```
-
-**2025 Goals:**
-🎯 Ship CodeVibe publicly &nbsp;|&nbsp; 🎯 Contribute to 3+ open-source repos &nbsp;|&nbsp; 🎯 Master DSA fundamentals
+| Skill | Focus |
+|:---|:---|
+| Python | Writing cleaner, more reliable code |
+| AI / ML | Model training, evaluation and practical applications |
+| Computer Vision | Image processing and detection systems |
+| DSA | Problem-solving and coding interview preparation |
+| SQL | Queries, joins, subqueries and data handling |
+| Open Source | Project administration, mentoring and collaboration |
 
 </div>
 
 ---
 
-## 🤝 Let's Build Together
+## ✨ Beyond the Code
 
 <div align="center">
 
-I'm always open to **collaborating on meaningful projects** — whether it's an open-source tool, a creative web app, or something no one's built yet.
+<img src="https://img.shields.io/badge/Artist-Traditional%20%26%20Digital-FF69B4?style=for-the-badge&logo=krita&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Community%20Builder-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer-Creative%20Thinker-3498DB?style=for-the-badge"/>
 
-If you have an idea that needs a developer who also *thinks like a designer*, let's talk.
+</div>
+
+I believe good engineering is built on strong fundamentals, curiosity, and consistency. Art has taught me patience and attention to detail; coding has taught me how to turn ideas into working solutions.
+
+I'm interested in meaningful collaborations, open-source initiatives, AI-powered applications, and opportunities to learn from people who build great things.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Have an idea, project, or opportunity? Let's build something meaningful.**
+
+<a href="https://jiya-protfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge"/>
+</a>
+<a href="https://github.com/JiyaBatra">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/jiya-batra-12b02b289">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jiyabatra0007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/jiya_the_coolartist">
+<img src="https://img.shields.io/badge/Art%20%26%20Creativity-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"Build with logic. Create with imagination. Grow by contributing."*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiya-batra-12b02b289)
-[![Email](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyabatra0007@gmail.com)
-
-<br/>
-
-*"The best interfaces feel invisible — and the best code reads like poetry."* 🌸
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a1e,100:ff69b4&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051A,50:6A1B68,100:FF69B4&height=120&section=footer"/>
 
 </div>
